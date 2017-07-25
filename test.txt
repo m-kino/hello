@@ -1,0 +1,54 @@
+前回のつづき。。
+
+・ソースコード管理
+→ GitHubで管理
+→ 自分のアカウントでアクセスして、ソースコードをCloneしてくる
+
+
+・SpringBoot
+https://github.com/PrimeBrains/encl-server/wiki
+ バックエンドサーバ開発環境構築について(Spring Bootバージョン)
+
+→ 研修でもつかったServlet機能の位置づけ。
+→ 環境構築までを実施。
+
+Eclipse
+Lombok
+Maven
+SourceTree
+
+
+
+・AngularJS
+https://github.com/PrimeBrains/encl-server-web/tree/dev
+
+→ 研修でも使ったWEB機能の位置づけ
+→ 環境構築までを実施。
+
+Node.js
+Grunt,Yeoman,Bower
+
+
+
+
+
+バージョン管理ソフトウェアとは
+
+■横瀬のつぶやき。。
+惜しむらくは編集するファイルの衝突が多く、手戻りする時間が目立つ事です。
+この失敗も含めて今後の糧にしたいと思います。
+
+→ どんな改善が出来そう？
+
+http://www.backlog.jp/git-guide/
+入門編
+
+・履歴を管理するリポジトリ(ローカル・リモート)
+・変更を記録するコミット
+・ワークツリーとインデックス
+
+・チュートリアル
+→ SourceTreeで作業
+
+
+
